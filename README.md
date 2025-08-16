@@ -1,16 +1,12 @@
 # 📘 Introduction to Business and Management (MGT281)
 
-This repository contains study materials, notes, and resources for the course **MGT281: Introduction to Business and Management** offered at Southeast University, Dhaka.  
-It is a **3-credit course** with **no prerequisites** and provides a foundation in both **business concepts** and **management practices**.
 
----
 
 ## 📚 Course Information  
 
 - **Course Code:** MGT281  
 - **Course Title:** Introduction to Business and Management  
 - **Credits:** 3  
-- **Prerequisites:** None  
 
 ---
 
